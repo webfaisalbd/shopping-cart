@@ -1,8 +1,12 @@
 body{
 	background: #fff;
 }
+h2{
+	text-align: center;
+	color: #2FBE70;
+}
 .cart{
-	margin: 100px 0;
+	margin: 10px 0;
 	background-color: #F6F5FA;;
 	padding: 60px 0;
 }
@@ -11,9 +15,9 @@ body{
 }
 .cart-item{
 	background-color: #fff;
-	border-radius: 10px;
-	padding: 15px 20px;
-	margin-bottom: 20px;
+	border-radius: 15px;
+	padding: 10px 20px;
+	margin-bottom: 10px;
 }
 .center-item{
     display: flex;
